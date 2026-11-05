@@ -1,0 +1,6 @@
+{
+  "name": "LT Tecnologia",
+  "description": "Soluções completas em Redes Estruturadas, CFTV, Elétrica, Reformas e Segurança Eletrônica em Brasília e Região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
